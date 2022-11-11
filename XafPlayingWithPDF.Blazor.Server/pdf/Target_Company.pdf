@@ -1,34 +1,37 @@
 %PDF-1.7
 %‚„œ”
 5 0 obj
-<</AP<</N 41 0 R>>/BS<</S/S/W 1>>/DA(/Impact 40 Tf)/DV(CompanyName)/F 132/FT/Tx/MK<</BC[0.0000]>>/P 3 0 R/Q 1/Rect[73.2000 692.4000 538.8000 741.6000]/Subtype/Widget/T(CompanyName)/Type/Annot/V(Xari, LLC)>>
+<</AP<</N 52 0 R>>/BS<</S/S/W 1>>/DA(/Impact 40 Tf)/DV(CompanyName)/F 4/FT/Tx/MK<</BC[0.0000]>>/P 3 0 R/Q 1/Rect[73.2000 692.4000 538.8000 741.6000]/Subtype/Widget/T(CompanyName)/Type/Annot/V(BitFrameWork)>>
+endobj
+40 0 obj
+<</AP<</N 53 0 R>>/BS<</S/S/W 1>>/DA(/Helv 18 Tf 1 0.50196 0.34118 rg)/DV(DeveloperTool)/F 4/FT/Tx/MK<</BC[0.0000]>>/P 3 0 R/Q 1/Rect[79.8000 589.2000 535.2000 645.6000]/Subtype/Widget/T(Text1)/Type/Annot/V(DevExpress XAF)>>
 endobj
 3 0 obj
 <</Annots 6 0 R/MediaBox[0.0000 792.0000 612.0000 0.0000]/Parent 4 0 R/Resources<<>>/Type/Page>>
 endobj
 1 0 obj
-<</AcroForm 7 0 R/Metadata 40 0 R/Outlines 17 0 R/Pages 4 0 R/Type/Catalog>>
+<</AcroForm 7 0 R/Metadata 51 0 R/Outlines 17 0 R/Pages 4 0 R/Type/Catalog>>
 endobj
 2 0 obj
-<</CreationDate(D:20221111110535-05'00')/Creator(Nitro Pro 13 \(13.61.4.62\))/ModDate(D:20221111115758-05'00')/Producer(iTextÆ Core 7.2.4 \(AGPL version\) ©2000-2022 iText Group NV)>>
+<</CreationDate(D:20221111110535-05'00')/Creator(Nitro Pro 13 \(13.61.4.62\))/ModDate(D:20221111122603-05'00')/Producer(iTextÆ Core 7.2.4 \(AGPL version\) ©2000-2022 iText Group NV)>>
 endobj
 23 0 obj
 <</BaseFont/Impact/Encoding/WinAnsiEncoding/FirstChar 0/FontDescriptor 25 0 R/LastChar 255/Subtype/TrueType/Type/Font/Widths 24 0 R>>
+endobj
+9 0 obj
+<</BaseFont/Helvetica/Encoding/WinAnsiEncoding/Subtype/Type1/Type/Font>>
 endobj
 4 0 obj
 <</Count 1/Kids[3 0 R]/Type/Pages>>
 endobj
 6 0 obj
-[5 0 R]
+[5 0 R 40 0 R]
 endobj
 7 0 obj
 <</DR<</Font<</Arial-Black 13 0 R/ArialMT 10 0 R/Helv 9 0 R/Impact 23 0 R>>>>/Fields 8 0 R>>
 endobj
 8 0 obj
-[5 0 R]
-endobj
-9 0 obj
-<</BaseFont/Helvetica/Encoding/WinAnsiEncoding/Subtype/Type1/Type/Font>>
+[5 0 R 40 0 R]
 endobj
 10 0 obj
 <</BaseFont/ArialMT/Encoding/WinAnsiEncoding/FirstChar 0/FontDescriptor 12 0 R/LastChar 255/Subtype/TrueType/Type/Font/Widths 11 0 R>>
@@ -57,7 +60,7 @@ endobj
 25 0 obj
 <</Ascent 1008/AvgWidth 1222/CapHeight 0/Descent -210/Flags 32/FontBBox[-129.0000 -330.0000 1413.0000 1167.0000]/FontName/Impact/ItalicAngle 0/Leading 0/MaxWidth 1219/MissingWidth 0/StemH 0/StemV 0/Type/FontDescriptor/XHeight 0>>
 endobj
-40 0 obj
+51 0 obj
 <</Length 2656/Subtype/XML/Type/Metadata>>stream
 <?xpacket begin="Ôªø" id="W5M0MpCehiHzreSzNTczkc9d"?>
 <x:xmpmeta xmlns:x="adobe:ns:meta/" x:xmptk="Adobe XMP Core 5.1.0-jc003">
@@ -67,8 +70,8 @@ endobj
         xmlns:pdf="http://ns.adobe.com/pdf/1.3/"
       xmp:CreatorTool="Nitro Pro 13 (13.61.4.62)"
       xmp:CreateDate="2022-11-11T11:05:35-05:00"
-      xmp:ModifyDate="2022-11-11T11:57:58-05:00"
-      xmp:MetadataDate="2022-11-11T11:57:36-05:00"
+      xmp:ModifyDate="2022-11-11T12:26:03-05:00"
+      xmp:MetadataDate="2022-11-11T12:24:57-05:00"
       pdf:Producer="iText¬Æ Core 7.2.4 (AGPL version) ¬©2000-2022 iText Group NV"/>
   </rdf:RDF>
 </x:xmpmeta>
@@ -95,40 +98,44 @@ endobj
 <?xpacket end="w"?>
 endstream
 endobj
-41 0 obj
-<</BBox[0 0 465.6 49.2]/Filter/FlateDecode/Length 149/Matrix[1 0 0 1 0 0]/Resources<</Font<</F1 23 0 R>>>>/Subtype/Form/Type/XObject>>stream
-xú]Œ¡
-¬0‡{û"GÈmÎºnÃ”<r*»@ô¬<ÌÒÎZ´áBíÔ'#å¿hK≥≈XoçˇÑAÉ{áC?«=tJ39'Kˇ-?˝y´Ê )Sîß}^vó˙H·∫∏ŸA!VßZÕS_%PïJÏ˜fW¢3÷°\auæºnl€z-wh$FÈ2ı9/
+52 0 obj
+<</BBox[0 0 465.6 49.2]/Filter/FlateDecode/Length 151/Matrix[1 0 0 1 0 0]/Resources<</Font<</F1 23 0 R>>>>/Subtype/Form/Type/XObject>>stream
+xú]ŒM¬0‡{~EézÈí—ΩV∂õáA¿≥†?¶lxÁÎZ´áB_íÁ%#å¿hW¶∆¨∑∆¬UÉ{áuî>ú∆=tJë8gKˇ-?˝e´Ê(©Pî	Á}ûwÁ˙HÒ∫¥ŸA%O€çöõæ Pµ •fojèŒXárÄE8=⁄i?w˜È≤î34’/˜;
+endstream
+endobj
+53 0 obj
+<</BBox[0 0 455.4 56.4]/Filter/FlateDecode/Length 164/Matrix[1 0 0 1 0 0]/Resources<</Font<</F1 9 0 R>>>>/Subtype/Form/Type/XObject>>stream
+xú]é±¬0DwEFXRª$)¥C•| -D[	ıÛ9¢¶Î|:øì{ÍIîµ⁄®;k†¡‹`>j]0âqG–Ñà∏,,ˇ∑¸ÙßZ…	≈"ÀΩÃ∑s	‰]ºl(Ûì*è{0LÈ)´oïÔHl°±Âπvg`¨-K·†#àÜ≠Ì´öûC;éÍ¥´◊˛JïÕZﬂoﬁ?Ã
 endstream
 endobj
 xref
-0 42
+0 54
 0000000020 65535 f 
-0000000349 00000 n 
-0000000441 00000 n 
-0000000237 00000 n 
-0000000790 00000 n 
+0000000591 00000 n 
+0000000683 00000 n 
+0000000479 00000 n 
+0000001120 00000 n 
 0000000015 00000 n 
-0000000841 00000 n 
-0000000864 00000 n 
-0000000972 00000 n 
-0000000995 00000 n 
-0000001083 00000 n 
-0000001234 00000 n 
-0000002254 00000 n 
-0000002499 00000 n 
-0000002654 00000 n 
-0000003680 00000 n 
+0000001171 00000 n 
+0000001201 00000 n 
+0000001309 00000 n 
+0000001032 00000 n 
+0000001339 00000 n 
+0000001490 00000 n 
+0000002510 00000 n 
+0000002755 00000 n 
+0000002910 00000 n 
+0000003936 00000 n 
 0000000018 00001 f 
-0000003931 00000 n 
+0000004187 00000 n 
 0000000019 00001 f 
 0000000021 00001 f 
 0000000022 00000 f 
 0000000026 00001 f 
 0000000027 00000 f 
-0000000640 00000 n 
-0000003974 00000 n 
-0000004989 00000 n 
+0000000882 00000 n 
+0000004230 00000 n 
+0000005245 00000 n 
 0000000028 00001 f 
 0000000029 00000 f 
 0000000030 00001 f 
@@ -140,14 +147,26 @@ xref
 0000000037 00000 f 
 0000000036 00001 f 
 0000000038 00001 f 
+0000000039 00000 f 
+0000000046 00001 f 
+0000000041 00000 f 
+0000000238 00000 n 
+0000000042 00000 f 
+0000000043 00000 f 
+0000000044 00000 f 
+0000000045 00000 f 
+0000000047 00000 f 
+0000000048 00001 f 
 0000000016 00000 f 
-0000000039 00001 f 
+0000000049 00001 f 
+0000000050 00001 f 
 0000000000 00001 f 
-0000005235 00000 n 
-0000007967 00000 n 
+0000005491 00000 n 
+0000008223 00000 n 
+0000008542 00000 n 
 trailer
-<</ID [<243f4ca53cba538c665070c442d8cf0e><b94a2b0e471c70d8746a1b329fff3f74>]/Info 2 0 R/Root 1 0 R/Size 42>>
+<</ID [<243f4ca53cba538c665070c442d8cf0e><6e5205ed5969c33f80490adffb845677>]/Info 2 0 R/Root 1 0 R/Size 54>>
 %iText-Core-7.2.4
 startxref
-8284
+8873
 %%EOF
