@@ -20,4 +20,15 @@ https://www.adobe.com/acrobat/about-adobe-pdf.html#:~:text=What%20does%20PDF%20m
 2. Add page number to a PDF document and Save as a New one <b>EnumeratePDF</b>.
 3. Fill PDF information base on a List of Fields and Values <b>FillPDFForm</b>.
 
+<b>Usefull links</b>
+
+https://xari.io/
+
+https://bitframeworks.com
+
+https://peopleworksservices.com/
+
+https://www.reddit.com/r/XAF/
+
+
 
